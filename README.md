@@ -30,9 +30,8 @@ bash plugin.sh https://github.com/SiddheshKukade/sample-api.git thirdFunction th
 ## And a plugin folder is generated with the follwing file containing some code :
 ![image](https://user-images.githubusercontent.com/65951872/163688735-5bbe5346-f8fa-4eec-8f69-669ccd4499ec.png)
 
-## Testing the URL : 
+## Testing the URL by going to provided URL which is `sampleClear` in our example
+![image](https://user-images.githubusercontent.com/65951872/163688892-b2880ae8-2d89-4d9f-9326-c3ce48ff01df.png)
 
 
-# Contains a bash script that adds code from other repository which we can store in our project and activate it in given url all in one command.
-# Sample Command Line Input 
-![image](https://user-images.githubusercontent.com/65951872/163675062-6cd1d8f2-ab03-42c5-bb1e-54cc74a6ce0a.png)
+
