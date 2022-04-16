@@ -1,9 +1,9 @@
 #### `Note : Current Code is for demo purpose only it is not optimized and naming conventions are not follwed due to some time contraints. The Code will be improved as we will move forward. currently the code just describes the basic concept of plugin architecture in react`
 # talawa-plugin-architecture-demo
-[Demo for the plugin architecture project](https://palisadoesfoundation.github.io/talawa-docs/docs/internships/internship-ideas/#admin-web-portal-plugin-architecture)
+Demo for the [plugin architecture project](https://palisadoesfoundation.github.io/talawa-docs/docs/internships/internship-ideas/#admin-web-portal-plugin-architecture)
 
 # For Executing the Demo  : 
-
+### Clone the project in your machine
 ## Open Terminal and run command 
 ```
 npm i 
