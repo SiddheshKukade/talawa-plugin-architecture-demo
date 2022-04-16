@@ -7,4 +7,4 @@ git  submodule add $1 plugins/$3
 # Adding the file to app.js
 sed -i "4 i   const "$2" = require('./plugins/"$3"/"$3"')" app.js
 # Assigning the URL to  app.js
-sed -i "9 i  app.get('/"$4"', (req, res ,next)=>"$2"(req, res, next) );" app.js
+sed -i "15 i  app.get('/"$4"', (req, res ,next)=>"$2"(req, res, next) );" app.js
