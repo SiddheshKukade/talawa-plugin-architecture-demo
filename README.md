@@ -6,6 +6,7 @@ Demo for the [plugin architecture project](https://palisadoesfoundation.github.i
 ### Clone the project in your machine
 ## Open Terminal and run command 
 ```
+cd talawa-plugin-architecture-demo/
 npm i 
 nodemon app.js
 ```
