@@ -35,6 +35,8 @@ bash plugin.sh https://github.com/SiddheshKukade/sample-api.git thirdFunction th
 ## Testing the URL by going to provided URL which is `sampleClear` in our example
 ![image](https://user-images.githubusercontent.com/65951872/163688892-b2880ae8-2d89-4d9f-9326-c3ce48ff01df.png)
 
+## Complete Overview of Terminals can look like this :
+![image](https://user-images.githubusercontent.com/65951872/163689953-33250a4e-c566-4b1d-a052-0818fadb7135.png)
 
 # All of this plugin workflow is made possible  by  plugin.sh file : 
 ```
